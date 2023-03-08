@@ -1,20 +1,15 @@
 <script setup lang="ts">
 
-import {ref} from "vue";
-import type {Ref} from "vue";
-interface book {
-  title: Ref<string>,
-  pages?: number
-}
-const books: book = { title:ref("hi")}
 
 </script>
 
 <template>
   <main>
-    home
-    <p>
-      {{ books.title + "sahar" }}
-    </p>
+    <h1>
+      Home Page
+    </h1>
+    <router-link to="/binding_practice">Binding Practice</router-link>
+    <br>
+    <router-link to="/focus_game">Focus Game</router-link>
   </main>
 </template>

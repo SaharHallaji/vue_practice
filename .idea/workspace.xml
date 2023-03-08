@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d038af6-03ce-4c6b-adc6-1d151a518a02" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/views/BindingPractice.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/FocusGame.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomePage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +102,7 @@
       <workItem from="1678138119819" duration="1754000" />
       <workItem from="1678223753907" duration="7394000" />
       <workItem from="1678269711527" duration="11859000" />
-      <workItem from="1678300816689" duration="4719000" />
+      <workItem from="1678300816689" duration="5683000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1678287392974</created>
@@ -124,11 +118,36 @@
       <option name="project" value="LOCAL" />
       <updated>1678287573985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1678305824904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678305824904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1678306156048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678306156048</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

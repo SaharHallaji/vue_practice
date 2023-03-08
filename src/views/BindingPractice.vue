@@ -1,6 +1,12 @@
 <script setup lang="ts">
+import {ref} from "vue";
 
-
+const selectedEvent = ref("click")
+const firstName = ref("")
+const lastName = ref("")
+function showMsg(){
+  alert("your name is : " + firstName.value + " " + lastName.value)
+}
 </script>
 
 <template>
@@ -8,13 +14,13 @@
     <p>
       select one :
     </p>
-    <select>
+    <select v-model="selectedEvent">
       <option value="click"> one click</option>
       <option value="dblclick"> double click</option>
     </select>
-    <input type="text" placeholder="first name">
-    <input type="text" placeholder="last name">
-    <button>
+    <input type="text" v-model="firstName" placeholder="first name">
+    <input type="text" v-model="lastName" placeholder="last name">
+    <button @[selectedEvent]="showMsg">
       submit
     </button>
   </div>

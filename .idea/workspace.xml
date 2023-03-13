@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d038af6-03ce-4c6b-adc6-1d151a518a02" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/components/Result.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/example.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Things.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/BindingPractice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/BindingPractice.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/FocusGame.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FocusGame.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomePage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +121,11 @@
       <workItem from="1678138119819" duration="1754000" />
       <workItem from="1678223753907" duration="7394000" />
       <workItem from="1678269711527" duration="11859000" />
-      <workItem from="1678300816689" duration="5683000" />
+      <workItem from="1678300816689" duration="6029000" />
+      <workItem from="1678456749088" duration="8464000" />
+      <workItem from="1678468702661" duration="9029000" />
+      <workItem from="1678625060773" duration="13576000" />
+      <workItem from="1678732931177" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1678287392974</created>
@@ -132,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678306156048</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1678306537519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678306537519</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
